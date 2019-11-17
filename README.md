@@ -1,5 +1,8 @@
 # install_ardupilot_scripts
 
+### requirement
+- Ubuntu 18.04 LTS
+
 ### for example
 ```
 ~$ git clone https://github.com/ksato-dev/install_ardupilot_scripts.git
