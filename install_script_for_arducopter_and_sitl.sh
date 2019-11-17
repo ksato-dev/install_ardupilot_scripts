@@ -1,6 +1,5 @@
 #!/usr/bin/bash
 # input user name on console
-#!/usr/bin/bash
 echo -n INPUT_YOUR_NAME: 
 read your_name
 
