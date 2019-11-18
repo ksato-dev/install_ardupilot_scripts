@@ -8,7 +8,7 @@ sudo apt-get update -y
 sudo apt-get upgrade -y
 
 # prepare ardupilot (for Copter-4.0) install
-sudo apt-get install git -y
+# sudo apt-get install git -y
 sudo apt-get install python3-dev python3-opencv python3-pip python3-matplotlib python3-lxml python3-yaml -y
 sudo apt-get install python-wxgtk3.0 python-pygame -y
 pip install MAVProxy	
